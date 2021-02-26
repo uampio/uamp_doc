@@ -6,7 +6,7 @@ description: Error codes
 
 | Error | Definition | Comments / Examples |
 | :--- | :--- | :--- |
-| 0xE000\_0000 | No error | There is no error in the system |
+| [0xE000\_0000](0xe1xx_xxxx-field-bus-related-errors.md) | No error | There is no error in the system |
 | 0xE1XX\_XXXX | Field bus error \(CANBus, EtherCAT, Profinet, ...\) | Message not valid, slave not responding, etc … |
 | 0xE2XX\_XXXX | Communication error \(OPC-UA, DDS, ...\) | Server not accessible, Authentication error, etc … |
 | 0xE3XX\_XXXX | Hardware related error | Driver mosffets error, Overcurrent, PLC error, etc … |
