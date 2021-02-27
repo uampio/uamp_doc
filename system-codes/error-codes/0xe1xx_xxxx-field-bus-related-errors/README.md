@@ -6,7 +6,7 @@
 | :--- | :--- | :--- |
 | `0xE000_0000` | No error | There is no error in the system |
 | `0xE10X_XXXX` | [CANBus](0xe10x_xxxx-canbus.md) | Related errors to CANBus |
-| `0xE11X_XXXX` | ProfiNET | Related errors to ProfiNET |
+| `0xE11X_XXXX` | [ProfiNET](0xe11x_xxxx-profinet.md) | Related errors to ProfiNET |
 | `0xE12X_XXXX` | EtherCAT | Related erros to EtherCAT |
 | `0xE13X_XXXX` | Ethernet/IP | Related erros to Ethernet/IP |
 | `0xE14X_XXXX` | Modbus | Related erros to Modbus |
