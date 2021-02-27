@@ -1,5 +1,7 @@
 ---
-description: The machine main state machine will be programmed under PackML state machine.
+description: >-
+  The state machine is based in PackML standard. Pending to show Behavior tree
+  equivalent.
 ---
 
 # State machine PackML
