@@ -11,6 +11,7 @@
     * [0xE000\_0000 - No error](system-codes/error-codes/0xe000_0000-no-error.md)
     * [0xE1XX\_XXXX - Field bus related errors](system-codes/error-codes/0xe1xx_xxxx-field-bus-related-errors/README.md)
       * [0xE10X\_XXXX - CANbus](system-codes/error-codes/0xe1xx_xxxx-field-bus-related-errors/0xe10x_xxxx-canbus.md)
+      * [0xE11X\_XXXX - ProfiNET](system-codes/error-codes/0xe1xx_xxxx-field-bus-related-errors/0xe11x_xxxx-profinet.md)
     * [0xE2XX\_XXXX - Communication error \(OPC-UA, DDS, ...\)](system-codes/error-codes/0xe2xx_xxxx-communication-error-opc-ua-dds-....md)
     * [0xE3XX\_XXXX - Hardware related error](system-codes/error-codes/0xe3xx_xxxx-hardware-related-error.md)
     * [0xE4XX\_XXXX - Actuator related error](system-codes/error-codes/0xe4xx_xxxx-actuator-related-error.md)
