@@ -18,4 +18,5 @@
     * [0xE7XX\_XXXX - Application reserved](system-codes/error-codes/0xe7xx_xxxx-application-reserved.md)
 * [Devices](devices/README.md)
   * [Pneumatic piston / valve](devices/pneumatic-piston-valve.md)
+* [FAQs](faqs.md)
 
