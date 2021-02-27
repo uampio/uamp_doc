@@ -15,7 +15,7 @@ description: Error codes
 | 0xE6XX\_XXXX | Application reserved | Slave machine type A didn’t end the cycle, Slave machine error, Not expected datamatrix, etc … |
 
 {% hint style="info" %}
-If no sub level errors are required. Fill with zero. For example if we want to indicate a general error in actuators: 0x4000\_0000 should be used.
+If no sub level errors are required. Fill with zero. For example if we want to indicate a general error in actuators: 0xE400\_0000 should be used.
 {% endhint %}
 
 {% hint style="danger" %}
