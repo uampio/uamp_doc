@@ -1,2 +1,2 @@
-# 0xE6XX\_XXXX - Application reserved
+# 0xE6XX\_XXXX - PackML state machine error
 
