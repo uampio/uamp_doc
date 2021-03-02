@@ -1,2 +1,2 @@
-# Pneumatic piston / valve
+# Pneumatic piston / axis
 
