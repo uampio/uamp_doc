@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Getting started](README.md)
-* [State machin](machine-main-state-machine/README.md)
+* [State machine](machine-main-state-machine/README.md)
   * [States](machine-main-state-machine/states.md)
   * [Transitions](machine-main-state-machine/transitions.md)
 * [System codes](system-codes/README.md)

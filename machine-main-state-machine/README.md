@@ -4,7 +4,7 @@ description: >-
   equivalent.
 ---
 
-# State machin
+# State machine
 
 ## UAMP Simplified state machine
 
