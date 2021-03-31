@@ -2,15 +2,12 @@
 description: Pneumatic piston related errors
 ---
 
-# 0xE42X\_XXXX - Pneumatic piston / axis
+# 0xE41X\_XXXX - Pneumatic piston / axis
 
 | Error | Definition | Comments / Examples |
 | :--- | :--- | :--- |
-| `0xE411_XXXX` | Runout timer error |  |
-| `0xE41X_XXXX` |  |  |
-| `0xE45X_XXXX` | Reserved | Reserved |
-| `0xE46X_XXXX` | Reserved | Reserved |
-| `0xE47X_XXXX` | Reserved | Reserved |
-| `0xE48X_XXXX` | Reserved | Reserved |
-| `0xE49X_XXXX` | Reserved | Reserved |
+| `0xE411_0001` | Run out timer error reaching home position |  |
+| `0xE411_0002` | Run out timer error reaching work position |  |
+
+
 
