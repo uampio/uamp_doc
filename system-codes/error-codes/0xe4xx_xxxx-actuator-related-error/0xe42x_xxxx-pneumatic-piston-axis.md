@@ -6,8 +6,9 @@ description: Pneumatic piston related errors
 
 | Error | Definition | Comments / Examples |
 | :--- | :--- | :--- |
-| `0xE411_0001` | Run out timer error reaching home position |  |
-| `0xE411_0002` | Run out timer error reaching work position |  |
+| `0xE411_0001` | Run out timer error reaching home position | Timer related error |
+| `0xE411_0002` | Run out timer error reaching work position | Timer related error |
+| `0xE412_0001` | Both work and home sensor are activated | Sensor related error |
 
 
 
