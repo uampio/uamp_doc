@@ -1,2 +1,2 @@
-# 0xE7XX\_XXXX - Application reserved
+# 0xE9XX\_XXXX - Application reserved
 
