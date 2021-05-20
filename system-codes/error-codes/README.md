@@ -12,7 +12,7 @@ description: Error codes
 | `0xE3XX_XXXX` | [Hardware related error](0xe3xx_xxxx-hardware-related-error.md) | Driver mosffets error, Overcurrent, PLC error, etc … |
 | `0xE4XX_XXXX` | [Actuator related error \(Motor, Piston, ...\)](0xe4xx_xxxx-actuator-related-error/) | Stuck motor, Home position not reached, etc … |
 | `0xE5XX_XXXX` | [Sensor related error](0xe5xx_xxxx-sensor-related-error.md) | Sensor not responding, Dust in the window sensor \(Scanners\), etc … |
-| `0xE6XX_XXXX` | [PackML state machine error](0xe6xx_xxxx-application-reserved.md) | Runout timer switching state |
+| `0xE6XX_XXXX` | [PackML state machine error](0xe6xx_xxxx-application-reserved/) | Runout timer switching state |
 | `0xE7XX_XXXX` | [Safety error](0xe7xx_xxxx-safety-related-error/) | Safety related errors |
 | `0xE9XX_XXXX` | [Application reserved](0xe7xx_xxxx-application-reserved.md) | Slave machine type A didn’t end the cycle, Slave machine error, Not expected datamatrix, etc … |
 
