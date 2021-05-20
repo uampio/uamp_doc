@@ -8,7 +8,7 @@ description: >-
 
 ## UAMP Simplified state machine
 
-![UAMP Simplified state machine based in PackML standard](../.gitbook/assets/uamp_state_machine.svg)
+![UAMP Simplified state machine](../.gitbook/assets/uamp_state_machine.png)
 
 ## PackML state machine
 
